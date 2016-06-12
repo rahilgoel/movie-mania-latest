@@ -1,0 +1,21 @@
+<resources>
+    <string-array name="words">
+        <item>DIL DOSTI ETC</item>
+        <item>KARAN ARJUN</item>
+        <item>STUDENT OF THE YEAR</item>
+        <item>MAKDI</item>
+        <item>3 IDIOTS</item>
+        <item>ZINDGI NA MILEGI DOBARA</item>
+        <item>RAB NE BANADI JODI</item>
+        <item>YEH JAWANI HAI DEEWANI</item>
+        <item>ABCD</item>
+        <item>KOI MIL GYA</item>
+        <item>MAIN HUN NA</item>
+        <item>AISHA</item>
+        <item>36 CHINA TOWN</item>
+        <item>VEER</item>
+        <item>MY NAME IS KHAN</item>
+        <item>KARTHIK CALLING KARTHIK</item>
+        <item>TEEN PATTI</item>
+    </string-array>
+</resources>

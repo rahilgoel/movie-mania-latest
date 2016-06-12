@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@mipmap/background_image">
+<ImageView
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:background="@drawable/moviemaniaclogo"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="110dp"
+    android:id="@+id/imageView" />
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/imageView"
+    android:layout_centerHorizontal="true"
+    android:id="@+id/rev">
+
+    <ImageButton
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:background="@drawable/single_player_done"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:elevation="4dp"
+        android:text="Play Single"
+        android:id="@+id/single" />
+<ImageButton
+    android:layout_width="200dp"
+    android:layout_height="40dp"
+    android:background="@drawable/double_player"
+    android:layout_below="@+id/single"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="20dp"
+    android:text="Duel"
+    android:id="@+id/multi"
+    android:elevation="4dp"/>
+
+
+
+
+
+
+
+
+</RelativeLayout>
+</RelativeLayout>
